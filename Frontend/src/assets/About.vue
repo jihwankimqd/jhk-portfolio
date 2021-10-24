@@ -57,10 +57,9 @@
 
         <section id="background">
                 <div id="text">
-                    <h3>Resume</h3>
+                    <h3><a href="https://github.com/jihwankimqd/jhk-portfolio/raw/main/Frontend/docs/JIHWANKIM_CV.pdf">Resume</a></h3>
                     <br>
                     <p>
-                        
                     </p>
                 </div> 
         </section>
@@ -126,6 +125,8 @@ export default {
     text-align: center;
   }
 
-  
+  a, u {
+  text-decoration: none;
+  }
 
 </style>
