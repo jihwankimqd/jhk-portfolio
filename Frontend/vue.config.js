@@ -1,5 +1,5 @@
 // const path = require('path');
-const target_url = 'https://jhkintel.herokuapp.com/'
+// const target_url = 'https://jhkintel.herokuapp.com/'
 
 module.exports = {
     // outputDir: path.resolve(__dirname,'../Backend/templates'),
@@ -31,7 +31,7 @@ module.exports = {
     //     },
     //   }
     // },
-    publicPath: '/jhkintelportfolio/',
+    publicPath: '/jhk-portfolio/',
 
     pages: {
       'index': {
