@@ -46,18 +46,18 @@ module.exports = {
         title: 'About',
         chunks: [ 'chunk-vendors', 'chunk-common', 'about' ]
       },
-      'portfolio': {
-        entry: 'src/pages/Portfolio/main.js',
-        template: 'public/index.html',
-        title: 'Portfolio',
-        chunks: [ 'chunk-vendors', 'chunk-common', 'portfolio' ]
-      },
-      'dashboard': {
-        entry: 'src/pages/Dashboard/main.js',
-        template: 'public/index.html',
-        title: 'Dashboard',
-        chunks: [ 'chunk-vendors', 'chunk-common', 'dashboard' ]
-      },
+      // 'portfolio': {
+      //   entry: 'src/pages/Portfolio/main.js',
+      //   template: 'public/index.html',
+      //   title: 'Portfolio',
+      //   chunks: [ 'chunk-vendors', 'chunk-common', 'portfolio' ]
+      // },
+      // 'dashboard': {
+      //   entry: 'src/pages/Dashboard/main.js',
+      //   template: 'public/index.html',
+      //   title: 'Dashboard',
+      //   chunks: [ 'chunk-vendors', 'chunk-common', 'dashboard' ]
+      // },
       'projects': {
         entry: 'src/pages/Projects/main.js',
         template: 'public/index.html',
