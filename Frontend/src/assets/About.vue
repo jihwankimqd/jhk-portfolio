@@ -1,39 +1,34 @@
 <template>
   <div id="app">
-
     <!-- <div class="container"> -->
-
         <section id="intro">
                 <div id="text">
                 <!-- <a href="about.html">about</a> -->
                 <h3>Ji Hwan KIM</h3>
                 <br>
-                <p>I am pursuing a BSc in Physics at HKUST.<br/>
-                I develop, analyze, and study all types of data. <br>
-                I have a particular interest in data with value. <br>
+                <p>Pursuing a BSc in Physics at <b>HKUST</b> (2022/June).<br/>
+                Software Engineer Intern at <b>Intel</b> for one year. <br>
+                Strong background in teamwork and communication. <br>
                 </p>
                 </div> 
-            
         </section>
 
         <section id="programming">
                 <div id="text">
-                    <h3>Programmer</h3>
+                    <h3>Software Engineer</h3>
                     <br>
-                    <p>I believe programming has a lot of potential<br>
-                    Being motivated in learning, I have taught myself: 
-                    <br/>
-                    <br/>
-                        Python Numpy Matplotlib Pandas Sklearn, C++ (Primary) <br>
-                        JavaScript HTML CSS, Vue.js, Flask, Git (Secondary)
+                    <p>Self-taught, <b>Intel</b> trained.<br>
+                    <br>
+                        Self-taught in Python, C++, JavaScript, CSS, HTML,<br>
+                        along with other languages/libraries/frameworks <br>
+                        and mastered them in a professional environment <br>
+                        during my 1 year Software Engineer Internship at <b>Intel</b>.                        
                     <br>
                     </p>
                 </div> 
-        
         </section>
 
         <section id="Interpersonal">
-
                 <div id="text">
                     <h3>Communicator and Leader</h3>
                     <br>
@@ -45,27 +40,31 @@
                         concerts in front of hundreds while leading and managing the members.   
                     </p>
                 </div> 
-
         </section>
 
         <section id="background">
-
                 <div id="text">
                     <h3>International</h3>
                     <br>
                     <p>
                         I have lived in 6 different countries- Korea, Malaysia, China,<br>
-                        Indonesia, Hong Kong, Philippines. I speak Korean (Native), <br> 
+                        Indonesia, Hong Kong, and the Philippines. I speak Korean (Native), <br> 
                         English (Fluent), Mandarin (Basic), Indonesian (Basic). I really <br>
                         get along with everyone from any background and culture.
+                    </p>
+                </div> 
+        </section>
+
+        <section id="background">
+                <div id="text">
+                    <h3>Resume</h3>
+                    <br>
+                    <p>
                         
                     </p>
                 </div> 
-
         </section>
-
     <!-- </div> -->
-      
   </div>
 </template>
 
