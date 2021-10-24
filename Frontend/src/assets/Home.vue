@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-
     <!-- <div class="container"> -->
 
       <section id="home">
@@ -14,60 +13,26 @@
 
       <section id="about">
         <div class="svg-wrapper">
-
           <svg height="40" width="150">
             <rect id="shape" height="40" width="150" />
           </svg>
-
-            <div id="text">
-              <a href="about.html">about</a>
-            </div> 
-        </div>
-          
+          <div id="text">
+            <a href="about.html">about</a>
+          </div> 
+        </div> 
       </section>
 
       <section id="projects">
           <!-- <p>projects</p> -->
         <div class="svg-wrapper">
-
           <svg height="40" width="150">
             <rect id="shape" height="40" width="150" />
           </svg>
-
-            <div id="text">
-              <a href="portfolio.html">chartjs</a>
-            </div> 
+          <div id="text">
+            <a href="projects.html">projects</a>
+          </div> 
         </div>         
       </section>
-
-      <section id="projects">
-          <!-- <p>projects</p> -->
-        <div class="svg-wrapper">
-
-          <svg height="40" width="150">
-            <rect id="shape" height="40" width="150" />
-          </svg>
-
-            <div id="text">
-              <a href="dashboard.html">dashboard</a>
-            </div> 
-        </div>         
-      </section>
-
-      <section id="projects">
-          <!-- <p>projects</p> -->
-        <div class="svg-wrapper">
-
-          <svg height="40" width="150">
-            <rect id="shape" height="40" width="150" />
-          </svg>
-
-            <div id="text">
-              <a href="projects.html">projects</a>
-            </div> 
-        </div>         
-      </section>
-
     <!-- </div> -->
 
   </div>
